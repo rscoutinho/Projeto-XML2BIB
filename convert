@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+xmllint $1 ...
+xsltproc $1...
+
+
